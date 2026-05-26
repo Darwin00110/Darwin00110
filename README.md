@@ -23,6 +23,7 @@ API financeira com regras de domínio bancário reais.
 - Transferências PIX/TED/DOC com transação de banco e rollback
 - Testes unitários com xUnit e Moq
 - Entity Framework Core + MySQL
+- Docker
 
 ### 🔐 API Access Manager
 API RESTful com foco em segurança e arquitetura escalável.
