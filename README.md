@@ -27,8 +27,9 @@ API financeira com regras de domínio bancário reais.
 - Docker
 
 ### 🔐 API Access Manager
-API RESTful com foco em segurança e arquitetura escalável.
+API RESTful com foco em segurança e arquitetura escalável (projeto de estudo).
 - JWT Authentication + Roles
+- Inspiração fortisima em DDD
 - Clean Architecture + EF Core + SQLite
 - **Deploy em produção no Render** → [Acessar](https://github.com/Darwin00110/API-AccessManeger)
 
