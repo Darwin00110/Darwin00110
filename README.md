@@ -16,9 +16,10 @@ Desenvolvedor Backend autodidata com foco em .NET e C#.
 
 ## 🚀 Projetos em Destaque
 
-### 🏦 FinTrackAI — API Financeira Bancária
+### 🏦 MidasAPI — API Financeira Bancária
 API financeira com regras de domínio bancário reais.
 - Clean Architecture + DDD
+- Repository Pattern + SOLID
 - Autenticação JWT + Roles Admin/User
 - Transferências PIX/TED/DOC com transação de banco e rollback
 - Testes unitários com xUnit e Moq
