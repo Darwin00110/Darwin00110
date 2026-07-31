@@ -33,6 +33,14 @@ API RESTful com foco em segurança e arquitetura escalável (projeto de estudo).
 - Clean Architecture + EF Core + SQLite
 - **Deploy em produção no Render** → [Acessar](https://github.com/Darwin00110/API-AccessManeger)
 
+### Aquiles — Projeto em desenvolvimento ativo
+
+Sistema de automação pessoal que conecta software e hardware físico, permitindo controle remoto de dispositivos e comandos de automação em tempo real. Construído em C# com Clean Architecture (Domain, Application, Infrastructure), usando SignalR para comunicação bidirecional entre cliente e servidor.
+
+O projeto já tem o núcleo de backend funcional, com testes de integração com microcontroladores (ESP32/Arduino) via MQTT e comunicação serial. Está em evolução constante — os próximos passos incluem expandir a automação residencial e integrar com o Hermes (assistente de IA local), permitindo controle por linguagem natural.
+
+Status atual: núcleo funcional, hardware sendo integrado gradualmente, sem release estável ainda.
+
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Darwin00110&show_icons=true&theme=tokyonight&hide_border=true)
